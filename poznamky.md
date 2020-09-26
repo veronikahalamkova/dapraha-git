@@ -6,3 +6,4 @@
 * `git log` - reference na větve?
 * Vysvětlit symbolické reference?
 * Vysvětlit reference na předky (^, ~)?
+* tadadá
